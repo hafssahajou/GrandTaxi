@@ -43,7 +43,7 @@
                 <div class="w-full rounded-lg shadow-xl overflow-hidden relative px-8 pt-16 pb-32 bg-yellow-400 bg-opacity-25 text-white" style="max-width:400px;">
 
 
-                    <h3 class="text-3xl font-semibold text-indigo-100 leading-tight mb-10 relative z-10">Offering better discounts for online stores can be a lead advantage</h3>
+                    <h3 class="text-3xl font-semibold text-indigo-100 leading-tight mb-10 relative z-10">Bienvenue sur InDrive, votre partenaire de voyage fiable et confortable pour tous vos déplacements urbains et au-delà</h3>
                     <p class="relative z-10">
                         <a href="#" class="py-3 px-6 rounded shadow hover:shadow-lg text-white text-lg bg-gray-900 hover:bg-black focus:outline-none transition-all duration-300 ease-in-out">Join Now</a>
                     </p>
