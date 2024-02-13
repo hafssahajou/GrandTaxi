@@ -56,7 +56,7 @@
             <!-- BUY ME A BEER AND HELP SUPPORT OPEN-SOURCE RESOURCES -->
             <div class="flex items-end justify-end fixed bottom-0 right-0 mb-4 mr-4 z-10">
                 <div>
-                    <a title="Buy me a beer" href="#" target="_blank" class="block w-16 h-16 rounded-full transition-all shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12">
+                    <a target="_blank" class="block w-16 h-16 rounded-full transition-all shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12">
                         <img class="object-cover object-center w-full h-full rounded-full" src="https://images.pexels.com/photos/10884332/pexels-photo-10884332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
                     </a>
                 </div>
